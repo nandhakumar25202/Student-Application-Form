@@ -1,2 +1,2 @@
-# Student-Application-Form
-sample application form
+# Web-Project
+simple website using HTML
